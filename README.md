@@ -120,10 +120,6 @@ The dataset includes:
 
 ---
 
-## 📸 Sample Visualizations
-
-*(Add your charts screenshots here for better impact)*
-
 ---
 
 ## 🧑‍💻 Author
