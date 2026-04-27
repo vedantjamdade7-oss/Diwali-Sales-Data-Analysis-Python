@@ -1,9 +1,5 @@
 # 🪔 Diwali Sales Analysis (Python Project)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e5f,100:feb47b&height=200&section=header&text=Diwali%20Sales%20Analysis&fontSize=40&fontColor=ffffff"/>
-</p>
-
 ---
 
 ## 📌 Project Overview
