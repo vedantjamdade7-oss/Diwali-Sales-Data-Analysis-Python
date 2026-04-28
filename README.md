@@ -124,13 +124,3 @@ The dataset includes:
 
 **Vedant Jamdade**  
 Aspiring Data Analyst | Python, SQL & Data Visualization  
-
----
-
-## ⭐ Support
-
-If you found this project useful:
-
-⭐ Star this repository  
-📢 Share with others  
-💼 Add to your portfolio inspiration  
