@@ -1,4 +1,4 @@
-# 🪔 Diwali Sales Analysis (Python Project)
+# 🪔 Diwali Sales Analysi (Python Project)
 
 ---
 
