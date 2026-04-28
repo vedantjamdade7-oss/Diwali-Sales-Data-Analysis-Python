@@ -10,7 +10,7 @@ The goal is to simulate real-world data analysis tasks such as customer segmenta
 
 ---
 
-## 🎯 Business Objectives
+## 🎯 Business Objective
 
 - Identify high-value customer segments  
 - Analyze purchasing behavior during festive season  
