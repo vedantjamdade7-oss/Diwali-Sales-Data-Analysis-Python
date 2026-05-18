@@ -2,7 +2,7 @@
 
 ---
 
-## 📌 Project Overvie
+## 📌 Project Overview
 
 This project analyzes **Diwali sales data** using Python to uncover customer purchasing behavior and business insights.
 
