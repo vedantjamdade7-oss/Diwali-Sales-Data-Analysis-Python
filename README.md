@@ -81,7 +81,7 @@ The dataset includes:
 
 ---
 
-## 📈 Key Insights
+## 📈 Key Insight
 
 ✔ Female customers dominate purchase volume  
 ✔ Age group 26–35 is the most valuable segment  
